@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = wongweixuan.pers@gmail.com
+	name = Wong Wei Xuan
